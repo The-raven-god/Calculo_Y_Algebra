@@ -1,10 +1,10 @@
-Aquí tienes un `README.md` completo en formato Markdown que describe tu software de transformación de integrales dobles con cambio de variables (Jacobiano), incluyendo requisitos, instalación, ejecución y funcionamiento paso a paso:
-
 ---
 
 # 🧮 Transformación de Integrales Dobles con Jacobiano
 
-**Autor:** Ing. Santiago
+**Autor:** Ing. Santiago Rueda Quintero
+**Autor:** Ing. Lisandro Rueda Thomas
+**Autor:** Ing. Jimmer Mario Cortez
 **Lenguaje:** Python 3
 **Interfaz gráfica:** Tkinter
 **Propósito:** Visualizar, transformar y analizar integrales dobles usando cambios de variable con cálculo del Jacobiano.
