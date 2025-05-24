@@ -2,9 +2,7 @@
 
 # 🧮 Transformación de Integrales Dobles con Jacobiano
 
-**Autor:** Ing. Santiago Rueda Quintero
-**Autor:** Ing. Lisandro Rueda Thomas
-**Autor:** Ing. Jimmer Mario Cortez
+**Autor:** Ing. Santiago Rueda Quintero, Ing. Lisandro Rueda Thomas, Ing. Jimmer Mario Cortez
 **Lenguaje:** Python 3
 **Interfaz gráfica:** Tkinter
 **Propósito:** Visualizar, transformar y analizar integrales dobles usando cambios de variable con cálculo del Jacobiano.
