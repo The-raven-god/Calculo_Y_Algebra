@@ -137,7 +137,7 @@ Este cambio representa una transformación a coordenadas polares para una regió
 Para dudas o sugerencias, puedes contactar a:
 
 **Ing. Santiago**
-Email: \[[est_s_rueda@fesc.edu.co](mailto:est_s_rueda@fesc.edu.co)] *(modificar si es necesario)*
+Email: \[[est_s_rueda@fesc.edu.co](mailto:est_s_rueda@fesc.edu.co)]
 
 ---
 
